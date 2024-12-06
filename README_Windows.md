@@ -67,8 +67,7 @@
 ssh -T git@github.com
 ```
 
-6. If you are asked to add github.com to the trusted hosts enter "yes" and press `enter`.
-7. If a new folder called "web-test-ssh" was created your SSH setup was successful! :tada:
+6. If you get a message from github your SSH setup was successful! :tada:
 
 ## Only On-Site: Setting up ghcd Tool
 
