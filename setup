@@ -134,10 +134,10 @@ echo "(These set up your command line to work and look nicer)\n";
 curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash
 
 # Copy configuration files
-sudo curl -s https://raw.githubusercontent.com/neuefische/web-setup/main/configs/.zshrc > ~/.zshrc;
-curl -s https://raw.githubusercontent.com/neuefische/web-setup/main/configs/.p10k.zsh > ~/.p10k.zsh;
+sudo curl -s https://raw.githubusercontent.com/wd-bootcamp/web-setup/main/configs/.zshrc > ~/.zshrc;
+curl -s https://raw.githubusercontent.com/wd-bootcamp/web-setup/main/configs/.p10k.zsh > ~/.p10k.zsh;
 
 echo "\n✨ \033[1m…all done!\033[0m";
 echo "You can now switch to the iTerm Terminal by pressing \033[1m⌘\033[0m + \033[1mSpace\033[0m and search for \"iTerm\".\n";
 echo "We have some suggestions for nicer macOS settings which you can apply by running:";
-echo "\033[0;36mzsh <(curl -s https://raw.githubusercontent.com/neuefische/web-setup/main/setup-macos)\033[0m\n";
+echo "\033[0;36mzsh <(curl -s https://raw.githubusercontent.com/wd-bootcamp/web-setup/main/setup-macos)\033[0m\n";
