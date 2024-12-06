@@ -2,7 +2,7 @@
 
 This is a collection of scripts to setup your macOS.
 
-They are designed for the neue fische web development course.
+They are designed for the web development course.
 
 ## Instructions
 
@@ -30,7 +30,7 @@ Installs desktop applications, command line tools and sets up the shell.
 > If you are asked to enable fuzzy auto-completion, enable key bindings and update shell configuration files confirm by pressing <kbd>Enter</kbd>.
 
 ```sh
-zsh <(curl -s https://raw.githubusercontent.com/neuefische/web-setup/main/setup)
+zsh <(curl -s https://raw.githubusercontent.com/wd-bootcamp/web-setup/main/setup)
 ```
 
 <details>
@@ -79,7 +79,7 @@ Sets up git and connects it to GitHub.
 > Choose **`ssh`** as your preferred connection method. Login and authenticate to GitHub using the browser. (The device code is found in the Terminal.)
 
 ```sh
-zsh <(curl -s https://raw.githubusercontent.com/neuefische/web-setup/main/setup-git)
+zsh <(curl -s https://raw.githubusercontent.com/wd-bootcamp/web-setup/main/setup-git)
 ```
 
 <details>
