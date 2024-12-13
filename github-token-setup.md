@@ -51,5 +51,5 @@ If the download was successful and a folder called `computer-setup_is-token-corr
 Finally, remove the downloaded folder, we don't need it anymore:
 
 ```bash
-rm -rf computer-setup_is-toke-correct
+rm -rf computer-setup_is-token-correct
 ```
