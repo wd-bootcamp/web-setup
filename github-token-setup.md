@@ -46,7 +46,7 @@ npx ghcd@latest spicedacademy/fs-web-exercises/tree/main/sessions/computer-setup
 
 [https://github.com/spiced-academy/fs-web-exercises/tree/main/sessions/computer-setup/is-token-correct](https://github.com/spiced-academy/fs-web-exercises/tree/main/sessions/computer-setup/is-token-correct)
 
-If the download was successful and a folder called `computer-setup_is-toke-correct` was created, your setup works as expected!
+If the download was successful and a folder called `computer-setup_is-token-correct` was created, your setup works as expected!
 
 Finally, remove the downloaded folder, we don't need it anymore:
 
