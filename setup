@@ -99,7 +99,7 @@ echo "\n🖱 \033[1mInstalling macOS Apps…\033[0m";
 echo "(using the Homebrew package manager)\n";
 
 brew tap homebrew/cask-versions;
-for x in iterm2 visual-studio-code rectangle quicklook-json; do brew install --cask $x; done;
+for x in iterm2 visual-studio-code quicklook-json; do brew install --cask $x; done;
 brew install --cask firefox-developer-edition --lang=en-US;
 
 echo "Installed macOS apps:" && brew list --cask -1;

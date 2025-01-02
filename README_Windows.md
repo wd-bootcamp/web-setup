@@ -16,9 +16,8 @@
    12. Choose `Fast-forward or merge` and continue.
    13. Choose `Git Credential Manager` and continue.
    14. On the page Configuring extra options leave the settings as is and continue.
-   15. On the page Configuring experimental options leave the settings as is and continue.
-   16. Wait for the installation to complete.
-   17. You are done! 🎉
+   15. Wait for the installation to complete.
+   16. You are done! 🎉
 3. Open `git-bash`.
 4. Right click on the openend window and select `options` from the dropdown menu.
 5. On `text` -> `font` click `select...` and set the font size to `16px` or more.
@@ -28,7 +27,7 @@
 
 ## ⚙️ Install Node.js
 
-1. [Download](https://nodejs.org/) node.js and choose the `LTS` version (at this time 20.11.0).
+1. [Download](https://nodejs.org/) node.js and choose the `LTS` version (at this time 22.12.0).
 2. Run the installation file:
    1. Accept the terms and conditions and continue.
    2. Leave the installation path as is and continue.
@@ -39,7 +38,7 @@
 4. Make sure that `node.js` and `npm` were successfully installed by entering the commands
    - `node -v` and
    - `npm -v`.
-5. In the terminal, the respective versions of `node.js` and `npm` should be displayed, for example "v20.10.0" and "10.2.4".
+5. In the terminal, the respective versions of `node.js` and `npm` should be displayed, for example "v22.12.0" and "11.0.0".
 
 ## 🔐 Setup SSH for Github
 
