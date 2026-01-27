@@ -76,4 +76,5 @@ We use the comand line tool `ghcd` for downloading the challenges. On site cohor
 
 1. [Download](https://code.visualstudio.com/) visual studio code.
 2. Execute the installation file.
-3. Follow [these instructions](./vscode-setup.md) to prepare VS Code for our bootcamp.
+3. Make sure to tick the checkbox 'Add to PATH' and restart the computer after installation.
+4. Follow [these instructions](./vscode-setup.md) to prepare VS Code for our bootcamp.
