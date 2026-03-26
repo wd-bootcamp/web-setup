@@ -7,8 +7,6 @@
 Carefully read and follow the
 [instructions in the `web-setup` repository](./web-setup/setup-macos.md).
 
-Run the _💻 General Setup_ and _🐙 Setting up git and GitHub_ script as described. Also follow the VS Code setup.
-
 ### Setup Guide for Windows
 
 Carefully read and follow the
