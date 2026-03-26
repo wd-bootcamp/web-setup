@@ -5,9 +5,9 @@
 ### Setup Guide for MacOS
 
 Carefully read and follow the
-[instructions in the `web-setup` repository](./web-setup/setup-macos.md).
+[instructions for MacOS users](/setup-macos.md).
 
 ### Setup Guide for Windows
 
 Carefully read and follow the
-[instructions in the `web-setup` repository for Windows users](./web-setup/setup-windows.md).
+[instructions for Windows users](/setup-windows.md).
