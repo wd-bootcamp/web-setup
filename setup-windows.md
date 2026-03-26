@@ -46,7 +46,7 @@
 
 1. In your git-bash terminal, execute the following command and follow the instructions:
    ```bash
-   bash <(curl -s https://wd-bootcamp.github.io/web-curriculum/docs/web-setup/setup-windows.bash)
+   bash <(curl -s https://raw.githubusercontent.com/wd-bootcamp/web-setup/main/setup-windows.bash)
    ```
 2. Enter your full name and email address.
 3. Accept the default storage location for your ssh keys ('~/.ssh/id_ed25519') by pressing `enter`.
